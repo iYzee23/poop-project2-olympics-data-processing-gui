@@ -1,0 +1,2 @@
+# poop-project2-olympics-data-processing-gui
+Java/Cpp program (part of faculty course) that analyzes and processes data from .txt files in certain format. GUI orriented program written in Java Swing, with strong focus on abundant use of java collections, streams, buffered readers, regex, matchers etc... Project was done in group, so there are essential changes in comparison with first project. The primary goal of project was to use Java Native Interface to link Java and Cpp programs and create .dll libraries
